@@ -1,0 +1,45 @@
+-----------------eventos-----------------
+Desarrollador: Cristian
+Campos:
+id
+nombre
+descripcion
+direccion
+lugar
+latitud 
+longitud
+fecha
+hora
+imagenUrl
+---------------workshop-------------------
+Desarrollador: Denis
+Campos:
+id
+tema
+descripcion
+expositor_id (expositor_biografia, imagenUrl, tecnologias)
+imagenUrl
+------------participantes-----------------
+Desarrollador: Rodrigo
+Campos:
+id
+nombre
+apellido
+celular
+-------------tag_tecnologia---------------
+Desarrollador: Rodrigo
+Campos:
+id
+nombre
+--------------expositor_tag---------------
+Desarrollador: Cristian
+Campos:
+id
+expositorId
+tagId
+--------------------usarios---------------
+Desarrollador: Rodrigo
+Campos:
+id
+nombre
+
