@@ -47,3 +47,4 @@ bower.json
 # Archivos del eclipse JEE
 .classpath
 .settings
+/bin
